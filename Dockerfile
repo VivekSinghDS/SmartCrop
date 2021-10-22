@@ -1,4 +1,4 @@
-FROM python:3.8.8
+FROM armswdev/pytorch-arm-neoverse-n1
 
 RUN pip install numpy==1.21.2
 RUN pip install opencv_python==4.5.3.56
