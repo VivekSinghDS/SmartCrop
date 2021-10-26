@@ -22,4 +22,4 @@ Current Drawbacks
 1. Sometimes the size of an image might increase after cropping
 2. Might not be that effective at times
 
-The above project is a modified version of https://github.com/lld533/Grid-Anchor-based-Image-Cropping-Pytorch, and made it compatible with the latest versions of pytorch. 
+The above project is a modified version of <a href = 'https://github.com/lld533/Grid-Anchor-based-Image-Cropping-Pytorch'>this repo</a>, and made it compatible with the latest versions of pytorch. 
